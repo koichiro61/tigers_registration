@@ -6,4 +6,4 @@ makecsv.py
 一軍登録抹消履歴ページを scrapeして tigers_reg_history.csv を出力
 
 gannt.py
-tigers_reg_history.csv を読み込んでガントチャートを生成
+tigers_reg_history.csv を読み込んでガントチャート tigers_gantt.png を生成
