@@ -10,4 +10,6 @@ gannt.py
 tigers_reg_history.csv を読み込んでガントチャート tigers_gantt.png を生成
 ![サンプル](https://github.com/koichiro61/tigers_registration/blob/dd6de4f1bc4b23f33f4e8aa2dd041aa41cdc4775/tigers_gantt.png "サンプル")
 
+動作検証環境
+iPadOS 26.5 / a-shell 2.0.2 / Python Python 3.13.1+
 
