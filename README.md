@@ -1,2 +1,9 @@
 # tigers_registration
 阪神タイガース公式サイトの一軍登録抹消履歴を読み込んで各行を各選手の出場登録期間選手を表示するガントチャートを作成する。
+一軍登録抹消履歴 https://hanshintigers.jp/game/regist/history.html
+
+makecsv.py
+一軍登録抹消履歴ページを scrapeして tigers_reg_history.csv を出力
+
+gannt.py
+tigers_reg_history.csv を読み込んでガントチャートを生成
